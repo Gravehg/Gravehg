@@ -3,23 +3,20 @@
 Pleased to meet you! I'm a soon-to-graduate software engineering student with a passion for building impactful software solutions. I enjoy learning new technologies and working on real-world projects that challenge my problem-solving skills. Currently, I'm honing my skills in web development, particularly in Angular and Node.js, and exploring cloud computing and data science.
 
 
-<div style="display: inline-flex; align-items: center;">
   <img alt="Languages, Frameworks and Tools" 
        width="50px" 
        style="margin-right: 10px;" 
        title="Designed by Freepik" 
        src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />
-  <strong>Tech Stack</strong>
-</div>
+  <h2><strong>Tech Stack</strong></h2>
 
 
-<h2 style="style="display: inline-flex; align-items: center;"> 
-  <img alt="Languages, Frameworks and Tools" 
+<img alt="Languages, Frameworks and Tools" 
        width="30px" 
        style="margin-right:20px; vertical-align: middle;" 
        title="Designed by Freepik" 
-       src="https://github.com/user-attachments/assets/78ea84ec-7a33-4106-b391-9b57be44fbc8" /><strong>Languages, Frameworks and Tools</strong>
-</h2>
+       src="https://github.com/user-attachments/assets/78ea84ec-7a33-4106-b391-9b57be44fbc8" />
+<h2><strong>Languages, Frameworks and Tools</strong></h2>
 
 
 
