@@ -12,14 +12,14 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 ----
 
 
-<div><img alt="Databases" width="50px" style="margin-right:10px;" title="Designed by Freepik" src="https://github.com/user-attachments/assets/a29e15a6-025b-4ddf-8d7f-60c3717a9f12" /><h2><strong>Databases</strong></h2><div/>
+<img alt="Databases" width="50px" style="margin-right:10px; display: inline" title="Designed by Freepik" src="https://github.com/user-attachments/assets/a29e15a6-025b-4ddf-8d7f-60c3717a9f12" /><h2><strong>Databases</strong></h2>
 
 
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ----
 
-<div><img alt="DevOps" width="50px" style="margin-right:10px;" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" /><h2><strong>DevOps</strong></h2><div/>
+<img alt="DevOps" width="50px" style="margin-right:10px;" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" /><h2><strong>DevOps</strong></h2>
  
  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
