@@ -6,7 +6,7 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 
 <h1>  <img alt="Languages, Frameworks and Tools" 
        width="50px" 
-       style="margin-right:20px; vertical-align: middle;" 
+       style="margin-right:55px; vertical-align: middle;" 
        title="Designed by Freepik" 
        src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" /><strong>Tech Stack</strong></h1>
 
@@ -14,7 +14,7 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 <h2 style="display: inline-block; vertical-align: middle;"> 
   <img alt="Languages, Frameworks and Tools" 
        width="50px" 
-       style="margin-right:20px; vertical-align: middle;" 
+       style="margin-right:55px; vertical-align: middle;" 
        title="Designed by Freepik" 
        src="https://github.com/user-attachments/assets/78ea84ec-7a33-4106-b391-9b57be44fbc8" /><strong>Languages, Frameworks and Tools</strong>
 </h2>
