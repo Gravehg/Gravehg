@@ -4,16 +4,21 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 
 
 
-# 💻 Tech Stack
+<h1>  <img alt="Languages, Frameworks and Tools" 
+       width="50px" 
+       style="margin-right:10px; vertical-align: middle;" 
+       title="Designed by Freepik" 
+       src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" /><strong>Tech Stack</strong></h1>
 
-<div style="display: inline-block; vertical-align: middle;">
+
+<h2 style="display: inline-block; vertical-align: middle;"> 
   <img alt="Languages, Frameworks and Tools" 
        width="50px" 
        style="margin-right:10px; vertical-align: middle;" 
        title="Designed by Freepik" 
-       src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />
-  <h2 style="display: inline-block; vertical-align: middle;"><strong>Languages, Frameworks and Tools</strong></h2>
-</div>
+       src="https://github.com/user-attachments/assets/78ea84ec-7a33-4106-b391-9b57be44fbc8" /><strong>Languages, Frameworks and Tools</strong>
+</h2>
+
 
 
 
@@ -22,7 +27,7 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 ----
 
 
-<img alt="Databases" width="50px" style="margin-right:10px; display: inline" title="Designed by Freepik" src="https://github.com/user-attachments/assets/a29e15a6-025b-4ddf-8d7f-60c3717a9f12" /><h2><strong>Databases</strong></h2>
+<h2><img alt="Databases" width="50px" style="margin-right:10px; display: inline" title="Designed by Freepik" src="https://github.com/user-attachments/assets/a29e15a6-025b-4ddf-8d7f-60c3717a9f12" /><strong>Databases</strong></h2>
 
 
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
