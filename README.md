@@ -1,5 +1,7 @@
-<img alt="Tech Stack" width="60px" style="margin-right: 10px;" title="Designed by Freepik" src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />
-<h1>Jeffrey Leiva 🚀</h1> 
+
+
+<div style="display: flex; flex-direction: row; justify-content: center;"><img alt="Tech Stack" width="60px" style="margin-right: 10px;" title="Designed by Freepik" src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />  <h1>Jeffrey Leiva 🚀</h1> </div>
+
 
 Pleased to meet you! I'm a soon-to-graduate software engineering student with a passion for building impactful software solutions. I enjoy learning new technologies and working on real-world projects that challenge my problem-solving skills. Currently, I'm honing my skills in web development, particularly in Angular and Node.js, and exploring cloud computing and data science.
 
