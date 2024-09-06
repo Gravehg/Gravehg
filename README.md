@@ -1,6 +1,5 @@
 
-
-<img align="center" alt="Tech Stack" width="60px" style="margin-right: 10px;" title="Designed by Freepik" src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />  
+<p align="center" ><img alt="Tech Stack" width="60px" style="margin-right: 10px;" title="Designed by Freepik" src="https://github.com/user-attachments/assets/9c7b15db-fb94-43b5-bff0-659d64afb7ba" />   </p>
 <h1 align="center">Jeffrey Leiva 🚀</h1> </div>
 
 
