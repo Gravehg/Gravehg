@@ -41,6 +41,6 @@ Pleased to meet you! I'm a soon-to-graduate software engineering student with a 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravehg&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffrey-leiva-68484a22a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffrey-leiva-68484a22a/) 
 
 
