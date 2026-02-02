@@ -3,7 +3,7 @@
 <h1 align="center">Jeffrey Leiva 🚀</h1> </div>
 
 
-Pleased to meet you! I'm a soon-to-graduate software engineering student with a passion for building impactful software solutions. I enjoy learning new technologies and working on real-world projects that challenge my problem-solving skills. Currently, I'm honing my skills in web development, particularly in Angular and Node.js, and exploring cloud computing and data science.
+Pleased to meet you! I'm a software engineer with a passion for building impactful software solutions. I enjoy learning new technologies and working on real-world projects that challenge my problem-solving skills. Currently, I'm dedicated to mobile development, honing my skills in different platforms, Android and iOS.
 
 ----
 
